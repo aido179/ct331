@@ -29,7 +29,8 @@
 14372681  Kevin McGinley
 17101336  Antoine Orgerit
 15349941  Marc Blain
-15332311  Bernard Kavanagh 14527643 Conor Redington
+15332311  Bernard Kavanagh
+14527643 Conor Redington
 15432788  Grzegorz Baluszek
 15736825  Chika Onyia
 15315901  Taidgh Murray
